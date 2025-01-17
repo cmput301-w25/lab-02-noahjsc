@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Noah Carter`
+- **CCID:** `1739169`
 
 ## References and Resources
 
